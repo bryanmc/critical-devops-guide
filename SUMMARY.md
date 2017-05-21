@@ -8,3 +8,7 @@
 
 * [Defining Methods](methods.md)
 
+## Amazon AWS
+
+* EC2
+
