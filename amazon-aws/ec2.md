@@ -22,18 +22,39 @@ Open your terminal and then SSH into your Linux box with the following:
 
 In order to do this, you need to first create a user on your Linux server which you provide with a password and then update a few config files to give the user **sudo power** and then also allow connection to ssh with an authentication credential form that accepts a password.  By default, passwords are not a valid form of authentication for the **SSH daemon**.
 
+1\) **SSH into Your Linux Box via your key \(.pem\) **
+
+```bash
+ssh -i Stable-Current-PublicFE-RestrictedBE.pem ec2-user@ec2-xx-xxx-xx-xx.eu-west-2.compute.amazonaws.com
+```
+
+2\) Create a new user that will access the instance and have sudo powers
+
+```bash
+sudo useradd -s /bin/bash -m -d /home/bryan  -g root bryan
+```
+
+The substring "bryan" in the above command is an arbitrary value which serves as the user's username.  You should replace both  with the username you would like, and of course, both values should be identical.  
+
+Here's the breakdown of what's going on here:
+
+* -s /bin/bash : use /bin/bash as the standard shell
+* -m -d /home/USERNAME : create a home directory at /home/USERNAME
+* -g root : add to group root
+* USERNAME : the username of the new user
+
 ### Extra Security Measures
 
 These are optional but recommended extra steps to lock down your server and stymie would be hacker kiddies.
 
 #### Change Your SSH Port from Default 22
 
-1. [ ] Launch and connect to EC2 instance running Amazon Linux.
-2. [ ] Promote to root and edit /etc/ssh/sshd\_config
-3. [ ] Edit line 17 \(usually 17\) \#port 22. You'll need to un-comment the line and change the port to whatever you like. Example: port 2222
-4. [ ] Save changes and exit
-5. [ ] Restart sshd, `$/etc/init.d/sshd restart`
-6. [ ] Make sure the new port is added to the INBOUND rules for your security group. The example above I would add a new TCP connection for 2222 for 0.0.0.0/0, after testing is over I would then lock down the source address to something more specific. 
+1. Launch and connect to EC2 instance running Amazon Linux.
+2. Promote to root and edit /etc/ssh/sshd\_config
+3. Edit line 17 \(usually 17\) \#port 22. You'll need to un-comment the line and change the port to whatever you like. Example: port 2222
+4. Save changes and exit
+5. Restart sshd, `$/etc/init.d/sshd restart`
+6. Make sure the new port is added to the INBOUND rules for your security group. The example above I would add a new TCP connection for 2222 for 0.0.0.0/0, after testing is over I would then lock down the source address to something more specific. 
 
 ### Kill the Default EC2-USER User
 
