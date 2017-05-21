@@ -10,8 +10,6 @@ Let's jump into the fun shall
 
 SSH allows you to access your server without connecting to it through something like RDP \(remote desktop\).  There are a few different ways that you can gain access via SSH: an ssh key or via username/password authentication.
 
-{% include "../GLOSSARY.md" %}
-
 ### SSH via Key
 
 When you create your instance, you will be made to select a **security group** and then a key/value pair.  First make sure that your security group has an inbound rule set that allows connections on port 22.  You will also need to provide the **IP address** from which you will be accessing it in order to increase security.  That way not just any old neck beard can SSH into your box.  EC2 will also then provide with a download of an ssh key in the form of a file with a **.pem extension. **
