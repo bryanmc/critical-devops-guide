@@ -10,9 +10,7 @@ Let's jump into the fun shall
 
 SSH allows you to access your server without connecting to it through something like RDP \(remote desktop\).  There are a few different ways that you can gain access via SSH: an ssh key or via username/password authentication.
 
-### Extra Security Measures 
-
-These are optional but 
+{% include "../GLOSSARY.md" %}
 
 ### SSH via Key
 
@@ -39,11 +37,7 @@ These are optional but recommended extra steps to lock down your server and stym
 5. [ ] Restart sshd, `$/etc/init.d/sshd restart`
 6. [ ] Make sure the new port is added to the INBOUND rules for your security group. The example above I would add a new TCP connection for 2222 for 0.0.0.0/0, after testing is over I would then lock down the source address to something more specific. 
 
-### Kill the Default EC2-USER User 
+### Kill the Default EC2-USER User
 
 Hacker kiddies likely know about the **ec2-user **profile so now that we have a new user that can access and has full control, we can "kill" the default user so that if a hacker kiddie gets the bright idea to try and access SSH via the default known user, it will run into a brick wall and feel sad.
-
-
-
-
 
