@@ -10,6 +10,10 @@ Let's jump into the fun shall
 
 SSH allows you to access your server without connecting to it through something like RDP \(remote desktop\).  There are a few different ways that you can gain access via SSH: an ssh key or via username/password authentication.
 
+### Extra Security Measures 
+
+These are optional but 
+
 ### SSH via Key
 
 When you create your instance, you will be made to select a **security group** and then a key/value pair.  First make sure that your security group has an inbound rule set that allows connections on port 22.  You will also need to provide the **IP address** from which you will be accessing it in order to increase security.  That way not just any old neck beard can SSH into your box.  EC2 will also then provide with a download of an ssh key in the form of a file with a **.pem extension. **
@@ -21,6 +25,25 @@ Open your terminal and then SSH into your Linux box with the following:
 ### SSH via Username / Password
 
 In order to do this, you need to first create a user on your Linux server which you provide with a password and then update a few config files to give the user **sudo power** and then also allow connection to ssh with an authentication credential form that accepts a password.  By default, passwords are not a valid form of authentication for the **SSH daemon**.
+
+### Extra Security Measures
+
+These are optional but recommended extra steps to lock down your server and stymie would be hacker kiddies.
+
+#### Change Your SSH Port from Default 22
+
+1. [ ] Launch and connect to EC2 instance running Amazon Linux.
+2. [ ] Promote to root and edit /etc/ssh/sshd\_config
+3. [ ] Edit line 17 \(usually 17\) \#port 22. You'll need to un-comment the line and change the port to whatever you like. Example: port 2222
+4. [ ] Save changes and exit
+5. [ ] Restart sshd, `$/etc/init.d/sshd restart`
+6. [ ] Make sure the new port is added to the INBOUND rules for your security group. The example above I would add a new TCP connection for 2222 for 0.0.0.0/0, after testing is over I would then lock down the source address to something more specific. 
+
+### Kill the Default EC2-USER User 
+
+Hacker kiddies likely know about the **ec2-user **profile so now that we have a new user that can access and has full control, we can "kill" the default user so that if a hacker kiddie gets the bright idea to try and access SSH via the default known user, it will run into a brick wall and feel sad.
+
+
 
 
 
