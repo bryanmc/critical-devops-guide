@@ -10,5 +10,5 @@
 
 ## Amazon AWS
 
-* EC2
+* [EC2](amazon-aws/ec2.md)
 
