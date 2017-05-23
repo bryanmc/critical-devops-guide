@@ -42,66 +42,40 @@ A list of good audio pieces that I would like to keep to reference later:
 
 ### Top Finds List
 
-* Drama/Scary/Buildup/Suspense - https://www.audioblocks.com/stock-audio/scary-horror-tv-theme.htms
+* Drama/Scary/Buildup/Suspense - [https://www.audioblocks.com/stock-audio/scary-horror-tv-theme.htms](https://www.audioblocks.com/stock-audio/scary-horror-tv-theme.htms)
+* Drama/Scary/Supense/Piano - https://www.audioblocks.com/stock-audio/scary-haunting-piano-music-theme%C2%A0-98910.html
+
+
 
 ### Upbeat Suspense / Drama
 
-* https://www.audioblocks.com/stock-audio/not-from-this-world-93627.html
-* 
+* [https://www.audioblocks.com/stock-audio/not-from-this-world-93627.html](https://www.audioblocks.com/stock-audio/not-from-this-world-93627.html)
+
+### Drama Piano
+
+* https://www.audioblocks.com/stock-audio/scary-haunting-piano-music-theme%C2%A0-98910.html
+
 ### Pure Drama
 
 * [**https://www.audioblocks.com/stock-audio/holding-on-%28cinematic-underscore%29-92634.html**](https://www.audioblocks.com/stock-audio/holding-on-%28cinematic-underscore%29-92634.html)
-* https://www.audioblocks.com/stock-audio/a-symphonic-thriller-music-theme.html
+
+* [https://www.audioblocks.com/stock-audio/a-symphonic-thriller-music-theme.html](https://www.audioblocks.com/stock-audio/a-symphonic-thriller-music-theme.html)
 
 ### Digital/Tech
 
-* https://www.audioblocks.com/stock-audio/artificial-intelligence-92647.html
+* [https://www.audioblocks.com/stock-audio/artificial-intelligence-92647.html](https://www.audioblocks.com/stock-audio/artificial-intelligence-92647.html)
 
 ### Thriller
 
-* https://www.audioblocks.com/stock-audio/a-symphonic-thriller-music-theme.html
+* [https://www.audioblocks.com/stock-audio/a-symphonic-thriller-music-theme.html](https://www.audioblocks.com/stock-audio/a-symphonic-thriller-music-theme.html)
 
 ### Dramatic/Mysterious
 
-* https://www.audioblocks.com/stock-audio/cinematic-landscape.html
+* [https://www.audioblocks.com/stock-audio/cinematic-landscape.html](https://www.audioblocks.com/stock-audio/cinematic-landscape.html)
 
 ### Drama Space-ish
 
-* https://www.audioblocks.com/stock-audio/cinematic-atmosphere-1-92190.html
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [https://www.audioblocks.com/stock-audio/cinematic-atmosphere-1-92190.html](https://www.audioblocks.com/stock-audio/cinematic-atmosphere-1-92190.html)
 
 
 
