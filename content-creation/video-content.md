@@ -14,7 +14,15 @@ To create videos, especially sales videos, you will need a good source of stock 
 
 * VideoBlocks - annual one-time fee of $200 for unlimited downloads and royalty free, commercial use of thousands of videos.  What's cool is that these are also accessible via Moovly to import directly into your projects.
 
+## Asset Hacks
 
+For when you are strapped and need assets for high quality production.  Use at your own risk.  Never distribute a project widely where assets were attained by these or similar tactics:
+
+Quality Cinema Music
+
+1\) Go to a site like this: https://www.rocketstock.com/after-effects-templates/video-slideshows/projector/
+
+2\) Get the Chrome extension here: https://chrome.google.com/webstore/detail/recordrtc/ndcljioonkecdnaaihodjgiliohngojp
 
 
 
