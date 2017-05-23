@@ -18,11 +18,25 @@ To create videos, especially sales videos, you will need a good source of stock 
 
 For when you are strapped and need assets for high quality production.  Use at your own risk.  Never distribute a project widely where assets were attained by these or similar tactics:
 
-Quality Cinema Music
+### Quality Cinema Music
 
-1\) Go to a site like this: https://www.rocketstock.com/after-effects-templates/video-slideshows/projector/
+1\) Go to a site like this: [https://www.rocketstock.com/after-effects-templates/video-slideshows/projector/](https://www.rocketstock.com/after-effects-templates/video-slideshows/projector/)
 
-2\) Get the Chrome extension here: https://chrome.google.com/webstore/detail/recordrtc/ndcljioonkecdnaaihodjgiliohngojp
+2\) Get the Chrome extension here: [https://chrome.google.com/webstore/detail/recordrtc/ndcljioonkecdnaaihodjgiliohngojp](https://chrome.google.com/webstore/detail/recordrtc/ndcljioonkecdnaaihodjgiliohngojp)
+
+3\) Start the recorder \(check its options to make sure it's recording  ONLY the tab audio\)
+
+4\) Finish recording and save the webm file \(does automatically\)
+
+5\) Use http://cloudconvert.com to convert it to an mp3 or wave 
+
+
+
+## Links Worth Keeping
+
+* https://www.rocketstock.com/after-effects-templates/video-slideshows/projector/
+* https://www.premiumbeat.com/blog/10-free-film-grains-for-video-editors/
+* http://grainzilla.com/free-film-grain-download/
 
 
 
