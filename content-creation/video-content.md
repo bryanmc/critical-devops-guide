@@ -28,15 +28,80 @@ For when you are strapped and need assets for high quality production.  Use at y
 
 4\) Finish recording and save the webm file \(does automatically\)
 
-5\) Use http://cloudconvert.com to convert it to an mp3 or wave 
-
-
+5\) Use [http://cloudconvert.com](http://cloudconvert.com) to convert it to an mp3 or wave
 
 ## Links Worth Keeping
 
-* https://www.rocketstock.com/after-effects-templates/video-slideshows/projector/
-* https://www.premiumbeat.com/blog/10-free-film-grains-for-video-editors/
-* http://grainzilla.com/free-film-grain-download/
+* [https://www.rocketstock.com/after-effects-templates/video-slideshows/projector/](https://www.rocketstock.com/after-effects-templates/video-slideshows/projector/)
+* [https://www.premiumbeat.com/blog/10-free-film-grains-for-video-editors/](https://www.premiumbeat.com/blog/10-free-film-grains-for-video-editors/)
+* [http://grainzilla.com/free-film-grain-download/](http://grainzilla.com/free-film-grain-download/)
+
+## Video Audio
+
+A list of good audio pieces that I would like to keep to reference later:
+
+### Top Finds List
+
+* Drama/Scary/Buildup/Suspense - https://www.audioblocks.com/stock-audio/scary-horror-tv-theme.htms
+
+### Upbeat Suspense / Drama
+
+* https://www.audioblocks.com/stock-audio/not-from-this-world-93627.html
+* 
+### Pure Drama
+
+* [**https://www.audioblocks.com/stock-audio/holding-on-%28cinematic-underscore%29-92634.html**](https://www.audioblocks.com/stock-audio/holding-on-%28cinematic-underscore%29-92634.html)
+* https://www.audioblocks.com/stock-audio/a-symphonic-thriller-music-theme.html
+
+### Digital/Tech
+
+* https://www.audioblocks.com/stock-audio/artificial-intelligence-92647.html
+
+### Thriller
+
+* https://www.audioblocks.com/stock-audio/a-symphonic-thriller-music-theme.html
+
+### Dramatic/Mysterious
+
+* https://www.audioblocks.com/stock-audio/cinematic-landscape.html
+
+### Drama Space-ish
+
+* https://www.audioblocks.com/stock-audio/cinematic-atmosphere-1-92190.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
