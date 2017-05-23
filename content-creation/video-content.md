@@ -1,4 +1,4 @@
-# Video Content Creation 
+# Video Content Creation
 
 A's an entrepreneur online, you will more than likely be required to create some kind of video content one day.  Whether that be instructional videos, promotional videos or anywhere in between, you will need to be able to do this efficiently and with as little cost as possible.  That is precisely what this section of the guide covers - my experience as a nearly "one man gang" and getting the best possible result from my video content without spending thousands on video editors \(the people\) or video editors \(the software / tools\).
 
@@ -10,9 +10,9 @@ If you are working from a Chromebook, you won't immediately have access to the u
 
 ## Video Assets
 
-To create videos, especially sales videos, you will need a good source of stock video footage.  
+To create videos, especially sales videos, you will need a good source of stock video footage.
 
-* Video blocks - annual one-time fee of $200 for unlimited downloads and royalty free, commercial use of thousands of videos.  What's cool is that these are also accessible via Moovly to import directly into your projects.
+* VideoBlocks - annual one-time fee of $200 for unlimited downloads and royalty free, commercial use of thousands of videos.  What's cool is that these are also accessible via Moovly to import directly into your projects.
 
 
 
