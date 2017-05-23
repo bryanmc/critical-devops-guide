@@ -17,3 +17,9 @@
 
 * [Dev Environment](chrome-os-development/dev-environment.md)
 
+## Content Creation
+
+* [Video Content](content-creation/video-content.md)
+* Audio Content
+* Design Content
+
