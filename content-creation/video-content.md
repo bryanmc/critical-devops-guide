@@ -8,7 +8,7 @@ If you are working from a Chromebook, you won't immediately have access to the u
 
 * Moovly - cloud-based video editor on par with some of the more advanced mac/windows editors
 
-## Video Assets
+## Video Creation Assets
 
 To create videos, especially sales videos, you will need a good source of stock video footage.
 
