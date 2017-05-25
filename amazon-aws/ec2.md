@@ -34,7 +34,7 @@ ssh -i Stable-Current-PublicFE-RestrictedBE.pem ec2-user@ec2-xx-xxx-xx-xx.eu-wes
 sudo useradd -s /bin/bash -m -d /home/bryan  -g root bryan
 ```
 
-The substring "bryan" in the above command is an arbitrary value which serves as the user's username.  You should replace both  with the username you would like, and of course, both values should be identical.  
+The substring "bryan" in the above command is an arbitrary value which serves as the user's username.  You should replace both  with the username you would like, and of course, both values should be identical.
 
 Here's the breakdown of what's going on here:
 
@@ -59,4 +59,28 @@ These are optional but recommended extra steps to lock down your server and stym
 ### Kill the Default EC2-USER User
 
 Hacker kiddies likely know about the **ec2-user **profile so now that we have a new user that can access and has full control, we can "kill" the default user so that if a hacker kiddie gets the bright idea to try and access SSH via the default known user, it will run into a brick wall and feel sad.
+
+
+
+## High End Graphics Boxes
+
+When you need to run graphic intensive apps like games or do stuff like editing multimedia \(video, etc\) you are best creating a high-end graphics box that you can use sparingly as needed \(they are expensive\).  Here is my setup resources:
+
+### Windows Server 2012 R2 with NVIDIA / HMV Instance
+
+That's a mouthful, but essentially this article does a lot of the overview explanation:
+
+http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/accelerated-computing-instances.html
+
+
+
+
+
+
+
+
+
+
+
+
 
