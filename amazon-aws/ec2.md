@@ -60,8 +60,6 @@ These are optional but recommended extra steps to lock down your server and stym
 
 Hacker kiddies likely know about the **ec2-user **profile so now that we have a new user that can access and has full control, we can "kill" the default user so that if a hacker kiddie gets the bright idea to try and access SSH via the default known user, it will run into a brick wall and feel sad.
 
-
-
 ## High End Graphics Boxes
 
 When you need to run graphic intensive apps like games or do stuff like editing multimedia \(video, etc\) you are best creating a high-end graphics box that you can use sparingly as needed \(they are expensive\).  Here is my setup resources:
@@ -70,7 +68,31 @@ When you need to run graphic intensive apps like games or do stuff like editing 
 
 That's a mouthful, but essentially this article does a lot of the overview explanation:
 
-http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/accelerated-computing-instances.html
+[http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/accelerated-computing-instances.html](http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/accelerated-computing-instances.html)
+
+As per above:
+
+> If you require high processing capability, you'll benefit from using accelerated computing instances, which provide access to hardware-based compute accelerators such as Graphics Processing Units \(GPUs\) or Field Programmable Gate Arrays \(FPGAs\). Accelerated computing instances enable more parallelism for higher throughput on compute-intensive workloads.
+>
+> GPU-based instances provide access to NVIDIA GPUs with thousands of compute cores. You can use GPU-based accelerated computing instances to accelerate scientific, engineering, and rendering applications by leveraging the CUDA or Open Computing Language \(OpenCL\) parallel computing frameworks. You can also use them for graphics applications, including game streaming, 3-D application streaming, and other graphics workloads.
+
+Recommended Instance:
+
+https://aws.amazon.com/marketplace/pp/B00SK9DXLG?qid=1495755634594&sr=0-4&ref\_=srh\_res\_product\_title 
+
+Your subscriptions:
+
+https://aws.amazon.com/marketplace/library
+
+
+
+
+
+
+
+
+
+
 
 
 
